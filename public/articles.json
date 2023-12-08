@@ -1,0 +1,27 @@
+[
+
+  {
+    "_id": 1,
+    "title": "Israel resumes Gaza attacks",
+    "image": "https://i.ibb.co/hcqTkdr/346m2xz-preview.jpg",
+    "publisher": "The Daily Star",
+    "tags": ["Israel", "Gaza", "Conflict",  "Truce"],
+    "description": "Israel's military said today it had resumed fighting in Gaza, with airstrikes and artillery fire reported in Gaza City, as a truce expired with no agreement to extend it",
+    "view": 1200,
+    "timezone": "Fri Dec 1, 2023 12:33 PM",
+    "location": "Gaza, Palestine",
+    "category": "World News"
+  },
+  {
+    "_id": 2,
+    "title": "Cox's Bazar Express sets off on first journey",
+    "image": "https://i.ibb.co/CJJ8jQ9/Coxs-Bazar-Express.jpg",
+    "publisher": "The Daily Star",
+    "tags": ["Cox's Bazar Express",  "Maiden Journey","Railway", "Bangladesh Railway"],
+    "description": "The Cox's Bazar Express started its maiden journey from Cox's Bazar Railway Station with 1,020 passengers today. The train, comprising 20 coaches, started its journey towards the capital at 12:30pm, said Golam Rabbani, station master of Cox's Bazar station. It will take 8 hours and 10 minutes to reach its destination, according to Bangladesh Railway sources. Once the train reaches Dhaka at 9:45pm, the Director General of Bangladesh Railway Kamrul Ahsan will meet and exchange greetings with the passengers at Kamalapur Railway Station.",
+    "view": 2000,
+    "timezone": "Fri Dec 2, 2023 04:50 PM",
+    "location": "Cox's Bazar, Bangladesh",
+    "category": "Travel"
+  }
+]
