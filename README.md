@@ -23,3 +23,36 @@
 <h3>   Navigate Stories, Shape Perspectives</h3>
 
 -  Navigate the latest news on EraPulse Tribune's homepage, featuring top stories and detailed articles. Immerse yourself in multimedia content for an enriched experience. Subscribers access an elite space with premium ad-free articles. Register for a personalized journey and log in securely to manage subscriptions. Connect with our team via the contact page for direct assistance. The admin dashboard offers real-time insights into user metrics, all articles, and empowers the addition of publishers for a robust news ecosystem.
+
+    
+<h3>Technologies Used:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,tailwind,react,firebase,express,mongodb,nodejs,git,github" />
+  </a>
+</p>
+
+
+## Installation Guide
+
+This guide explains how other users can install and run your project.
+
+### 1. View the Live Website
+
+Firstly, you need to see your website in action. Visit [this link](https://github.com/ahmedraza069/express-times-newspapers-client) to do so.
+
+### 2. Clone the Project
+
+To clone the project to your local machine, use the following command:
+
+```bash
+git clone https://github.com/your-username/your-project.git
+
+```bash
+npm install
+
+```bash
+npm start
+
+```bash
+Feel free to replace placeholder texts like `your-username`, `your-project`, and `your-website-url.com` with the actual information relevant to your project.
